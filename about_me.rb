@@ -1,4 +1,4 @@
 
 puts "How old are you?"
 answer=gets.chomp
-puts "So you're feeling #{answer}"
+puts "So you're #{answer}"
