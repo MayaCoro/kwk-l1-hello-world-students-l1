@@ -7,3 +7,7 @@ end
 5.times do
 about_me
 end
+
+puts "How are you feeling?"
+answer=gets.chomp
+puts "So you're feeling #{answer}"
