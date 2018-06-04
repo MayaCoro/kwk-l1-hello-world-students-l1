@@ -4,3 +4,4 @@ def about_me
   puts "I'm 18 years old"
   puts "My favorite food is French toast"
 end
+about_me
